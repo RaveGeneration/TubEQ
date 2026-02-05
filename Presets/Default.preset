@@ -11,14 +11,9 @@
     <GUI version="1" useDefault="1" skinZoom="1.5" changedSincePresetLoaded="0">
         <skin version="2">
             <state version="5">
-                <params pCount="2">
+                <params pCount="1">
                     <p0 name="global_opacity" value="100"/>
-                    <p1 name="persistent_param" value="0"/>
                 </params>
-                <strings sCount="2">
-                    <s0 name="persistent_string" value="234234"/>
-                    <s1 name="persistent_string2" value="2342344"/>
-                </strings>
             </state>
         </skin>
     </GUI>

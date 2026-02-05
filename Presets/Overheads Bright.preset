@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="14" p0="0" p1="0" p2="0" p3="1" p4="0" p5="0" p6="0" p7="3.0000001192092896" p8="5" p9="0.5" p10="0.18897637724876404" p11="0" p12="0" p13="1"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1=""/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
