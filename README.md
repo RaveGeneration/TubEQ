@@ -1,1 +1,1 @@
-<img width="2000" height="244" alt="tubeq screen 110" src="https://github.com/user-attachments/assets/3fcd8830-2e77-435b-962f-9e0bdb6275bc" />
+<img width="2016" height="203" alt="TubEQ screen 150 120pr" src="https://github.com/user-attachments/assets/cdf42325-607d-43e9-9d72-a865889f2bd1" />
